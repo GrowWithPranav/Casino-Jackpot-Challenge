@@ -1,4 +1,4 @@
-🎰 Casino Jackpot Challenge 🎲<br>
+<h1><b>🎰 Casino Jackpot Challenge </b>🎲</h1>h1><br>
 Welcome to Casino Jackpot Challenge – a thrilling console-based casino game written in C++! Test your luck and strategy in this interactive game that combines user input, random number generation, and captivating computer graphics.<br><br>
 
 About the Game:<br>
